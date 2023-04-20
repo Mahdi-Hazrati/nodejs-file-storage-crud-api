@@ -1,5 +1,5 @@
 # Node.js File Storage CRUD API
-This is a simple Node.js application that demonstrates how to implement a **CRUD API** using **Express.js** and store data in a local** JSON** file. This repository can be used as a starting point for building applications that require basic CRUD functionality and simple data storage.
+This is a simple Node.js application that demonstrates how to implement a **CRUD API** using **Express.js** and store data in a local **JSON** file. This repository can be used as a starting point for building applications that require basic CRUD functionality and simple data storage.
 
 ## Setup
 To run this application, you will need Node.js installed on your system. Clone this repository to your local machine and navigate to the project directory.
